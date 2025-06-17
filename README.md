@@ -2,7 +2,7 @@
 
 This repository contains the complete **Asthma Severity Prediction** system, combining **Node.js** and **Flask** backends with a **React frontend** for a seamless user experience. The project predicts asthma severity using machine learning models, providing valuable insights for healthcare professionals and patients.
 
-🔗 **Live Preview**: [Asthma Severity Prediction](https://asthmaseverityprediction.netlify.app/)
+### 🚀 [Live Demo →](https://asthmaseverityprediction.netlify.app)
 
 ---
 
